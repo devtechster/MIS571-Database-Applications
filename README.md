@@ -1,6 +1,4 @@
 # DBApplications
-
----------------For windows
 # Make sure you have following things :
 - Latest android studio
 - Java, jdk , jre path set in enviornment varibales
