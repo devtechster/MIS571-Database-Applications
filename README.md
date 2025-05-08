@@ -1,4 +1,6 @@
 # MIS571 DBApplications
+This course is from WPI Business School conducted by Prof. Jim Ryan.
+Following instructions are for the basic steps to guide newbees of Android who are doing there very first Assignment.
 
 ## Make sure you have the following things:
 - Latest Android Studio
